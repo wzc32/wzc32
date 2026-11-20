@@ -1,4 +1,4 @@
-# Hi 👋 I am Zicheng Wang (王子成)
+# Hi 👋 I am Zicheng Wang
 
 ### About me:
 🎓 Advised by Prof. Hua Su and Dr. [Zhanchao Huang](https://github.com/Shank2358)<br>
