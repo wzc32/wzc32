@@ -5,8 +5,8 @@
 🏛️ Graduate student at the Academy of Digital China, Fuzhou University
 
 ### Currently interested in:
-🛰️ Deep Learning for Remote Sensing<br>
-🌊 Multimodal AI for RS Interpretation
+🛰️ Multimodal AI for RS Interpretation<br>
+🌊 Ocean & Coastal Environment Monitoring
 
 ### How to reach me:
 ✉️ [wangzicheng@fzu.edu.cn](mailto:wangzicheng@fzu.edu.cn)
