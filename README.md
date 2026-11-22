@@ -1,7 +1,7 @@
 # Hi 👋 I am Zicheng Wang
 
 ### About me:
-🎓 Advised by Prof. Hua Su and Dr. [Zhanchao Huang](https://github.com/Shank2358)<br>
+🎓 Advised by Prof. [Hua Su](https://www.researchgate.net/profile/Hua-Su-4) and Dr. [Zhanchao Huang](https://github.com/Shank2358)<br>
 🏛️ Graduate student at the Academy of Digital China, Fuzhou University
 
 ### Currently interested in:
